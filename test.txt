@@ -1,0 +1,3 @@
+# Git test repo
+
+Testing the functionality of git 
